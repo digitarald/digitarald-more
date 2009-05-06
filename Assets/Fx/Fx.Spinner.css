@@ -1,0 +1,11 @@
+ul.fx-spinner {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	list-style: none;
+	text-align: center;
+}
+ul.fx-spinner li {
+}
